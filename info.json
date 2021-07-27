@@ -1,5 +1,8 @@
 {
     "DialogsEditor": {
-        "Version": "1.0"
+        "VersionInfo": {
+            "1.0",
+            "Last released version of the plugin"
+        }
     }
 }
