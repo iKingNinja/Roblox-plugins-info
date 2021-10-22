@@ -3,6 +3,9 @@
         "VersionInfo": {
             "VersionNumber": "1.1",
             "VersionDescription": "Added quick scripts."
+        },
+        "ReleasedVersions": {
+            "1.1"
         }
     }
 }
