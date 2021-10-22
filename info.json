@@ -6,7 +6,8 @@
         },
         "ReleasedVersions": {
             "1.0": "The first version of the plugin.",
-            "1.1": "Added quick scripts."
+            "1.1": "Added quick scripts.",
+            "1.2": "Bugs fixes + added errors reports."
         }
     }
 }
