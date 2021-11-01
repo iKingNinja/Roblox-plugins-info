@@ -2,7 +2,7 @@
     "NSuit": {
         "VersionInfo": {
             "VersionNumber": "1.3",
-            "VersionDescription": "Added quick scripts."
+            "VersionDescription": "Added hitboxes creator."
         },
         "ReleasedVersions": {
             "1.0": "The first version of the plugin.",
