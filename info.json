@@ -10,6 +10,9 @@
             "1.2": "Bugs fixes + added errors reports.",
             "1.3": "Added hitboxes creator.",
             "1.4": "Added search bar to search tools, removed easy selector, more."
+        },
+        "AddOnsIDs": {
+            "5": ""
         }
     }
 }
