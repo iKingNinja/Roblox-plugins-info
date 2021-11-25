@@ -1,15 +1,16 @@
 {
     "NSuit": {
         "VersionInfo": {
-            "VersionNumber": "1.4",
-            "VersionDescription": "Added hitboxes creator."
+            "VersionNumber": "1.5",
+            "VersionDescription": "Added DataStore editor, fixed bugs."
         },
         "ReleasedVersions": {
             "1.0": "The first version of the plugin.",
             "1.1": "Added quick scripts.",
             "1.2": "Bugs fixes + added errors reports.",
             "1.3": "Added hitboxes creator.",
-            "1.4": "Added search bar to search tools, removed easy selector, more."
+            "1.4": "Added search bar to search tools, removed easy selector, more.",
+            "1.5": "Added DataStore editor, fixed bugs."
         },
         "AddOnsIDs": {
             "5": ""
