@@ -1,7 +1,7 @@
 {
     "NSuit": {
         "VersionInfo": {
-            "VersionNumber": "1.3",
+            "VersionNumber": "1.4",
             "VersionDescription": "Added hitboxes creator."
         },
         "ReleasedVersions": {
