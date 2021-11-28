@@ -1,8 +1,8 @@
 {
     "NSuit": {
         "VersionInfo": {
-            "VersionNumber": "1.6",
-            "VersionDescription": "Added DataStore record delete button."
+            "VersionNumber": "1.7",
+            "VersionDescription": "Added Random positioner."
         },
         "ReleasedVersions": {
             "1.0": "The first version of the plugin.",
@@ -11,7 +11,8 @@
             "1.3": "Added hitboxes creator.",
             "1.4": "Added search bar to search tools, removed easy selector, more.",
             "1.5": "Added DataStore editor, fixed bugs.",
-            "1.6": "Added DataStore record delete button."
+            "1.6": "Added DataStore record delete button.",
+            "1.7": "Added Random positioner."
         },
         "AddOnsIDs": {
             "5": ""
