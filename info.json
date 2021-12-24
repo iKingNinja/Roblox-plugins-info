@@ -1,8 +1,8 @@
 {
     "NSuit": {
         "VersionInfo": {
-            "VersionNumber": "1.7",
-            "VersionDescription": "Added Random positioner."
+            "VersionNumber": "1.8",
+            "VersionDescription": "Added Images previewer and beta features."
         },
         "ReleasedVersions": {
             "1.0": "The first version of the plugin.",
@@ -12,7 +12,8 @@
             "1.4": "Added search bar to search tools, removed easy selector, more.",
             "1.5": "Added DataStore editor, fixed bugs.",
             "1.6": "Added DataStore record delete button.",
-            "1.7": "Added Random positioner."
+            "1.7": "Added Random positioner.",
+            "1.8": "Added images previewer and beta features.",
         },
         "AddOnsIDs": {
             "5": ""
