@@ -1,5 +1,8 @@
 {
   "allowedPackages": {
-    "6988388214": "N Suit packages test"
+    "6988388214": {
+      "Name": "N Suit package 1",
+      "Description": "This is a test package."
+    }
   }
 }
